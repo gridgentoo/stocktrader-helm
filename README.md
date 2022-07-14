@@ -1,3 +1,6 @@
+Оригинальный репозитарий   
+https://github.com/IBMStockTrader/stocktrader-helm   
+
 # Stock Trader
 This repository holds the umbrella helm chart for the IBM Stock Trader sample (see the sibling `stocktrader-operator` repository for the equivalent umbrella operator, for use with the OpenShift Container Platform).  Note that you may wish to also follow along with the blog post I recently made about how to use this helm chart:
 https://medium.com/cloud-engagement-hub/using-an-umbrella-helm-chart-to-deploy-the-composite-ibm-stock-trader-sample-3b8b69af900d
